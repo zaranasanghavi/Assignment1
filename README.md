@@ -423,15 +423,6 @@ code generation.
 
 <br/>
 
-<h3><b>Overall Summary</b></h3>
-
-<p>
-AI assistance mainly improved development speed, clarity, and debugging
-efficiency. All final implementations, security enforcement, and validation
-decisions were performed manually to ensure correctness and compliance with
-assignment requirements.
-</p>
-
 <h2><b>Assignment Completion Confirmation</b></h2>
 
 <ul>
