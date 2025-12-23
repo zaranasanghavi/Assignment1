@@ -1,7 +1,7 @@
 <h1><b>Secure User Profile & Access Control System</b></h1>
 <h2>Video</h2>
 https://github.com/user-attachments/assets/576887d2-2fa7-404b-9131-87b07aa86e9a
-
+<h2><b>Project Overview</b></h2>
 <p>
 This repository contains the implementation of <b>Assignment-1: Secure User Profile & Access Control System</b>.
 The project focuses on secure authentication, encrypted storage of sensitive user data,
@@ -14,8 +14,6 @@ used in production systems.
 </p>
 
 <br/>
-
-<h2><b>Project Overview</b></h2>
 
 <p>
 The objective of this assignment is to design and implement a secure backend service
