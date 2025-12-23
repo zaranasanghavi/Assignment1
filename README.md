@@ -67,6 +67,7 @@ venv\Scripts\activate
 <p><b>Step 3: Install Dependencies</b></p>
 
 <pre>
+cd backend
 pip install requirements.txt
 </pre>
 
