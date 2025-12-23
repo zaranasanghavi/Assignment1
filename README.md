@@ -67,12 +67,6 @@ venv\Scripts\activate
 <p><b>Step 3: Install Dependencies</b></p>
 
 <pre>
-pip install django
-pip install djangorestframework
-pip install djangorestframework-simplejwt
-pip install cryptography
-pip install psycopg2-binary
-pip install python-dotenv
 pip install requirements.txt
 </pre>
 
