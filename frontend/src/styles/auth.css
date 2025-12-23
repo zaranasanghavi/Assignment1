@@ -1,0 +1,41 @@
+.container {
+  max-width: 400px;
+  margin: 80px auto;
+  padding: 20px;
+  border-radius: 6px;
+  box-shadow: 0 0 45px rgba(23, 212, 187, 0.425);
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: rgb(4, 150, 142);
+}
+
+input {
+  width: 94%;
+  padding: 10px;
+  margin: 8px 0;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+  background-color: rgb(255, 255, 255);
+  border-color: rgb(4, 150, 142);
+  color: black;
+}
+
+.link {
+  margin-top: 12px;
+  text-align: center;
+  color: rgb(54, 164, 228);
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+  text-align: center;
+}
