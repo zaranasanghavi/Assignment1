@@ -1,6 +1,5 @@
 <h1><b>Secure User Profile & Access Control System</b></h1>
 <h2>Video</h2>
-https://github.com/user-attachments/assets/576887d2-2fa7-404b-9131-87b07aa86e9a
 
 
 https://github.com/user-attachments/assets/f3b250fe-d276-4003-9d9f-61fccf28a226
