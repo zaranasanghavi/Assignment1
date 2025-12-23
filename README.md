@@ -1,11 +1,12 @@
 <h1><b>Secure User Profile & Access Control System</b></h1>
+<h2>Video</h2>
+https://github.com/user-attachments/assets/576887d2-2fa7-404b-9131-87b07aa86e9a
 
 <p>
 This repository contains the implementation of <b>Assignment-1: Secure User Profile & Access Control System</b>.
 The project focuses on secure authentication, encrypted storage of sensitive user data,
 and controlled access to user profile information.
 </p>
-
 <p>
 The system is designed using Django REST Framework, PostgreSQL, JWT authentication,
 AES-256 encryption, and a React frontend. It follows real-world security principles
@@ -22,7 +23,6 @@ that allows users to register, authenticate, and access their profile data secur
 Sensitive information such as Aadhaar numbers is encrypted before being stored in
 the database and is decrypted only during authenticated access.
 </p>
-
 <p>
 The implementation approach emphasizes:
 </p>
