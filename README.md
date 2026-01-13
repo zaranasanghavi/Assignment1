@@ -274,5 +274,4 @@ access. The frontend never handles encryption or decryption logic.
   <li>Authenticated profile access with backend decryption</li>
   <li>React frontend for login, registration, and profile dashboard</li>
   <li>Robust client-side and server-side error handling</li>
-  <li>Mandatory AI usage documented</li>
 </ul>
